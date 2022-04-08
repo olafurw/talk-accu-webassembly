@@ -1,0 +1,1 @@
+emrun --port 8080 --browser "/mnt/c/Program Files/Google/Chrome/Application/chrome.exe" hello_world.html;

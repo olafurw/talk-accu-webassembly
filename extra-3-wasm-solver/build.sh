@@ -1,0 +1,1 @@
+emcc -std=c++20 -O3 -g -gsource-map --no-entry -s STANDALONE_WASM game_logic.cpp -o game_logic.html;
